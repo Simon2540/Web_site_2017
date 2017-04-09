@@ -1,0 +1,2 @@
+<h3>Message du jour</h3>
+			<p class="noir">Je suis en live, <a href="http://twitch.tv/loutregaroute">cliquez ici</a> pour le regarder. Pendant le live, je code cette page: http://loutre-team.tk/aide-memoire/c</p>

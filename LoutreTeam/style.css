@@ -1,0 +1,97 @@
+@font-face {
+	font-family: 'Bodoni_XT';
+	src: url('Bodoni_XT.ttf');
+}
+*
+{
+	font-family: Bodoni_XT, Arial;
+	text-align: center;
+}
+p
+{
+	text-shadow: 2px 1px 4px black;
+	font-size: 16px;
+}
+.patate
+{
+	float: left;
+    border: 5px black solid;
+	border-radius: 50px / 10px;
+	box-shadow: 1px 1px 10px black;
+}
+.color
+{
+	text-align: left;
+	font-size: 23px;
+	color: black;
+	text-shadow: 2px 1px 4px black;
+}
+.retour
+{
+	float: clear;
+}
+body
+{
+	background-image: url("bg.jpg");
+}
+.noir
+{
+	color: black;
+}
+.menu
+{
+	color: black;
+
+}
+menu:visited
+{
+	background-color: black;
+}
+menu:focus
+{
+	background-color: black;
+}
+menu:active
+{
+	background-color: black;
+}
+li
+{
+	color: black;
+	text-shadow: 2px 1px 4px black;
+}
+nav
+{
+	display: inline-block;
+	width: 740px;
+	text-align: right;
+}
+nav ul
+{
+	list-style-type: none;
+}
+nav li
+{
+	display: inline-block;
+	margin-right: 15px;
+}
+nav a
+{
+	font-size: 1.3em;
+	color: #181818;
+	padding-bottom: 3px;
+	text-decoration: none;
+ }
+nav a:hover
+{
+	color: #760001;
+	border-bottom: 3px solid #760001;
+}
+.Pseudo
+{
+	float: right;
+	vertical-align: top;
+	margin-right: 50px;
+	margin-bottom: 150px
+
+}
